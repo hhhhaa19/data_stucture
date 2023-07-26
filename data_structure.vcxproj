@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c" />
+    <ClCompile Include="remove.c" />
     <ClCompile Include="reverse.c" />
     <ClCompile Include="xor_application.c" />
   </ItemGroup>

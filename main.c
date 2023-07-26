@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include"main.h"
-#if 1
+#if 0
 int main()
 {
 	int arr[4] = { 1,2,3,4 };
@@ -8,3 +8,8 @@ int main()
 	return 0;
 }
 #endif
+int main()
+{
+	test_for_removeElement();
+	return 0;
+}
