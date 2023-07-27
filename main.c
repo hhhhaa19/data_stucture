@@ -3,13 +3,13 @@
 #if 0
 int main()
 {
-	int arr[4] = { 1,2,3,4 };
+	int arr[4] = { 0,0,1,1,1,2,2,3,3,4 };
 	rotate3(arr, sizeof(arr) / sizeof(arr[0]), 5);
 	return 0;
 }
 #endif
 int main()
 {
-	test_for_removeElement();
+	test();
 	return 0;
 }
